@@ -25,3 +25,4 @@ Barcode control rendering 2D bar code
 * `Two-dimensional barcodes` - Barcode generator supports popular two-dimensional barcode symbologies such as **Data Matrix** and **QR Code**.
 * `Barcode customization` - Customize the visual appearance of barcodes using the `Background` and `Foreground` color properties and adjust the size of smallest line or dot of the code using the `Module` property.
 * `Text customization` - Configure to display the barcode value in different position and alignment. 
+Testing changes added
